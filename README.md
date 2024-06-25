@@ -1,7 +1,8 @@
 # Ciao a tutti! Sono Andrea Maggiore 👋
 
-### Chi sono?
+
 Ciao! Mi chiamo Andrea Maggiore e ho conseguito la laurea in Informatica presso l'Università di Roma La Sapienza. La mia passione per il settore tecnologico e informatico ha radici profonde e ha iniziato a germogliare durante il mio periodo di studi al liceo scientifico. In quegli anni, per la prima volta, mi sono immerso nelle basi di questa affascinante disciplina, scoprendo un mondo ricco di potenzialità e sfide stimolanti.
+
 
 Durante gli studi universitari, ho avuto l'opportunità di approfondire vari aspetti dell'informatica, dall'algoritmica alla programmazione, passando per le reti di calcolatori e l'intelligenza artificiale. La varietà e la complessità delle tematiche trattate mi hanno permesso di sviluppare una solida formazione teorica e pratica, alimentando ulteriormente il mio interesse per le nuove tecnologie. Questo percorso formativo ha consolidato in me la convinzione che l'aggiornamento continuo e la curiosità intellettuale siano fondamentali per eccellere in un settore in costante evoluzione come quello informatico.
 
