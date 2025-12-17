@@ -14,7 +14,6 @@ I earned my Bachelor’s degree at Sapienza University in 2023 and I expect to c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andrmagg2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=andrmagg2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrmagg2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrmagg2001&layout=compact&theme=dark&hide_border=false)
