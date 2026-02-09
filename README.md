@@ -3,7 +3,7 @@ I’m a Computer Science student at Sapienza University of Rome, currently worki
 
 Previously, I worked at Alten Italia as a Software Engineer in an aerospace environment, contributing to activities related to the Galileo GPS program and developing a communication simulator. This experience strengthened my approach to engineering reliable software systems, with attention to correctness, testing, and reproducibility.
 
-I earned my Bachelor’s degree at Sapienza University in 2023 and I expect to complete my M.Sc. in July 2026. After graduation, my goal is to pursue a Ph.D. at Sapienza University of Rome, continuing to work on ML-driven audio and music generation research.
+I earned my Bachelor’s degree at Sapienza University in 2023 and I expect to complete my M.Sc. in July 2026. After graduation, my goal is to pursue a Ph.D., continuing to work on ML-driven audio and music generation research.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andr_magg2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-maggiore-333764281/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrea.maggiore12@icloud.com) 
