@@ -5,12 +5,6 @@ M.Sc. Computer Science @ Sapienza University of Rome (expected <b>Jul 2026</b>) 
 I’m focused on <b>Audio ML</b>, <b>Multimodal Learning</b>, and <b>Generative Models</b>, aiming for a <b>Ph.D.</b> after graduation.
 </p>
 
-<p>
-<a href="mailto:andrea.maggiore12@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/andrea-maggiore-333764281/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/andr_magg2001/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
-</p>
-
 ---
 
 ### 🔬 Research interests
