@@ -46,6 +46,3 @@ Also used: Java, Swift, Azure/AWS, LaTeX, Ada
 
 ---
 
-### 📈 GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=andrmagg2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrmagg2001&layout=compact&theme=dark&hide_border=true" height="150"/>
