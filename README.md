@@ -24,7 +24,6 @@ I’m focused on <b>Audio ML</b>, <b>Multimodal Learning</b>, and <b>Generative 
   Repo: **https://github.com/andrmagg2001/Multimodal**  
   *Goal:* enhance noisy speech using visual cues from lip movements.
 
-> (Optional rename for clarity: `LipSound-AVSE` instead of `Multimodal`.)
 
 ---
 
